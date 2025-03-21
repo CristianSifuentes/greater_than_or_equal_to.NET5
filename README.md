@@ -1,6 +1,5 @@
 # Creating the README.md content with highlighted information from .NET 5 to .NET 10
 
-readme_content = """# What's New in .NET (5 to 10)
 
 This document provides a comprehensive overview of the new features and enhancements introduced in .NET versions 5 through 10.
 
