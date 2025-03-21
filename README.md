@@ -1,145 +1,89 @@
-# What's New in .NET 5
+# Creating the README.md content with highlighted information from .NET 5 to .NET 10
 
-##  Table of Contents
-- [Overview of .NET 5](#overview-of-net-5)
-- [Key Improvements in .NET 5](#key-improvements-in-net-5)
-- [Performance Enhancements](#performance-enhancements)
-- [New Features](#new-features)
-  - [C# 9 Enhancements](#c-9-enhancements)
-  - [Source Generators](#source-generators)
-  - [F# 5 Enhancements](#f-5-enhancements)
-  - [System.Text.Json Improvements](#systemtextjson-improvements)
-- [Runtime Enhancements](#runtime-enhancements)
-- [Cross-Platform Compatibility](#cross-platform-compatibility)
-- [Visual Basic Support](#visual-basic-support)
-- [Migration & Compatibility](#migration--compatibility)
-- [Conclusion](#conclusion)
+readme_content = """# What's New in .NET (5 to 10)
+
+This document provides a comprehensive overview of the new features and enhancements introduced in .NET versions 5 through 10.
+
+## Table of Contents
+- [What's New in .NET 10](#whats-new-in-net-10)
+- [What's New in .NET 9](#whats-new-in-net-9)
+- [What's New in .NET 8](#whats-new-in-net-8)
+- [What's New in .NET 7](#whats-new-in-net-7)
+- [What's New in .NET 6](#whats-new-in-net-6)
+- [What's New in .NET 5](#whats-new-in-net-5)
 
 ---
 
-## Overview of .NET 5
-.NET 5 is the next major release of .NET Core following 3.1. The name was changed to **.NET 5 instead of .NET Core 4** for two reasons:
-1. Version numbers 4.x were skipped to **avoid confusion with .NET Framework 4.x**.
-2. The term **"Core" was dropped** to emphasize that this is the **main implementation of .NET going forward**.
+## What's New in .NET 10
+### .NET Runtime
+- **Array interface method devirtualization**: Improves performance for array enumerations.
+- **Array enumeration de-abstraction**: Reduces abstraction overhead for iterators.
+- **Inlining of late devirtualized methods**: JIT inlines methods based on inlining observations.
+- **AVX10.2 support**: Introduced support for Advanced Vector Extensions (AVX) 10.2.
+- **Stack allocation of arrays of value types**: Small arrays of value types can be stack allocated.
 
-### 🏗 Platform Consolidation
-- .NET 5 **unifies** .NET development by replacing .NET Core but **does not replace** .NET Framework.
-- ASP.NET Core 5.0 and Entity Framework Core 5.0 **retain "Core"** in their names to avoid confusion with older versions.
+### .NET Libraries
+- **Find certificates by thumbprint (SHA-256, SHA-3-256)**.
+- **ISOWeek support for DateOnly**.
+- **Numeric ordering for string comparison**.
+- **JSON serialization updates**: New ReferenceHandler support.
+- **ZipArchive performance improvements**.
 
----
+### .NET SDK
+- **Pruning of unused framework-provided packages**.
+- **New noun-first CLI command aliases for dotnet CLI**.
 
-## Key Improvements in .NET 5
-.NET 5 includes **several performance improvements, new features, and enhancements** in runtime, libraries, and programming languages.
+### ASP.NET Core
+- **Blazor Enhancements**: New ReconnectModal component, better navigation handling.
+- **OpenAPI improvements**: Support for OpenAPI v3.1.
+- **Minimal APIs**: Improved integration testing and form post handling.
 
-### **Performance Enhancements**
-- **Garbage Collection (GC) optimizations**.
-- Improved **System.Text.Json** performance.
-- Enhanced **System.Text.RegularExpressions**.
-- **Async `ValueTask` pooling** for reduced memory allocation.
-- **Container size optimizations** for better cloud deployments.
-
----
-
-## New Features
-### C# 9 Enhancements
-.NET 5 is paired with **C# 9**, introducing several powerful features:
-
-- **Records**: Reference types with value-based equality.
-- **Relational pattern matching**: Extends pattern matching with relational operators.
-- **Top-level statements**: Allows C# programs without a `Main` method.
-- **Function pointers**: Enables interop with native code.
-
-Example of **Top-Level Statements**:
-```csharp
-System.Console.Write("Hello world!");
-```
-
-### Source Generators
-.NET 5 introduces **Source Generators**, allowing **code to be generated at compile time**.
-- Can inspect existing code and **generate new files** dynamically.
-- Improves **compile-time optimizations**.
-
-For more details, see: [Introducing C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/).
-
-### F# 5 Enhancements
-F# is the functional programming language for .NET. With .NET 5, **F# 5 introduces interpolated strings**, similar to C#.
-
-**Example of String Interpolation**:
-```fsharp
-let name = "David"
-let age = 36
-let message = $"{name} is {age} years old."
-```
-
-### System.Text.Json Improvements
-- **Preserve references** to handle circular dependencies.
-- **Serialization extension methods** for `HttpClient`.
-- **Support for immutable types and C# 9 records**.
-- **Custom converters can handle null values**.
-- **Allow writing numbers in quotes** for better compatibility.
+### C# 14
+- **Field-backed properties**.
+- **Implicit span conversions**.
+- **Modifiers on simple lambda parameters**.
 
 ---
 
-## Runtime Enhancements
-- **Single-File Applications**: Package everything into **one executable**.
-- **App Trimming**: Reduces app size by removing unused code.
-- **Windows Arm64 Support**: Native support for **Arm64 processors**.
+## What's New in .NET 9
+- **Performance improvements** in garbage collection and JIT.
+- **Enhancements to AOT compilation**.
+- **New APIs for HTTP/3 support in ASP.NET Core**.
+- **C# 13 introduces contextual keywords and pattern matching improvements**.
 
 ---
 
-## Cross-Platform Compatibility
-.NET 5 is fully **cross-platform** and replaces .NET Core. However, it **doesn’t replace .NET Framework**.
-
-| **Technology**      | **Recommended Alternative** |
-|---------------------|---------------------------|
-| **Web Forms**       | ASP.NET Core Blazor/Razor Pages |
-| **Windows Workflow (WF)** | Elsa Workflows |
-| **Windows Communication Foundation (WCF)** | gRPC or CoreWCF |
-
-For **.NET 5 apps**, use `net5.0` as the **Target Framework Moniker (TFM)**.
+## What's New in .NET 8
+- **Native AOT (Ahead-of-Time Compilation) improvements**.
+- **Better integration with cloud services**.
+- **New collection APIs for .NET developers**.
+- **.NET MAUI enhancements for cross-platform development**.
 
 ---
 
-##  Visual Basic Support
-.NET 5 does **not** introduce new language features for **Visual Basic**, but **extends project support** for:
-- Console Apps
-- Class Libraries
-- WPF Applications
-- Windows Forms (WinForms)
-- Unit Test Projects (MSTest, NUnit, xUnit)
+## What's New in .NET 7
+- **Massive performance boosts in JIT and garbage collection**.
+- **Improved LINQ APIs**.
+- **Simplified Blazor Hybrid development**.
+- **.NET SDK enhancements for CI/CD**.
 
 ---
 
-##  Migration & Compatibility
-.NET 5 is the **main implementation** going forward, but **.NET Framework 4.x is still supported**.
-
-###  Technologies NOT Ported from .NET Framework
-- **Web Forms**
-- **Windows Workflow (WF)**
-- **Windows Communication Foundation (WCF)** (but CoreWCF is an alternative).
-
-###  Code Sharing
-- **For .NET 5 apps** → Use `net5.0`.
-- **For compatibility with .NET Framework** → Use `netstandard2.0`.
-
-For more details, see [.NET Standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0).
+## What's New in .NET 6
+- **LTS Release (Long-Term Support)**.
+- **Minimal APIs for ASP.NET Core**.
+- **Hot Reload for better developer experience**.
+- **File IO and networking enhancements**.
 
 ---
 
-##  Conclusion
-.NET 5 is a **major step forward** in **unifying .NET** and improving **performance, cross-platform support, and runtime efficiency**. However, **it does not replace .NET Framework**, and some older technologies require alternative solutions.
-
-**Key Takeaways**:
-✅ Faster runtime with **performance optimizations**.  
-✅ **C# 9, F# 5, and Visual Basic improvements**.  
-✅ **Better JSON serialization** with `System.Text.Json`.  
-✅ **Single-file applications and App Trimming**.  
-✅ **Improved compatibility for cross-platform apps**.
+## What's New in .NET 5
+- **First unified .NET release for desktop, cloud, mobile, and gaming**.
+- **New language features in C# 9**.
+- **Performance improvements in ASP.NET Core**.
+- **.NET MAUI introduced as the successor to Xamarin**.
 
 ---
+This document is a summary of key improvements across .NET versions. For more details, visit the official [Microsoft .NET documentation](https://learn.microsoft.com/en-us/dotnet/).
+"""
 
-###  **Useful Links**
-- 🔗 [.NET 5 Download](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
-- 🔗 [C# 9 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
-- 🔗 [F# 5 Features](https://docs.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-5)
-- 🔗 [System.Text.Json Updates](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-overview)
