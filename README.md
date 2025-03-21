@@ -42,6 +42,8 @@ This document provides a comprehensive overview of the new features and enhancem
 - **Implicit span conversions**.
 - **Modifiers on simple lambda parameters**.
 
+[More information about .NET 10 here.](https://github.com/CristianSifuentes/.NET10)
+
 ---
 
 ## What's New in .NET 9
@@ -49,6 +51,8 @@ This document provides a comprehensive overview of the new features and enhancem
 - **Enhancements to AOT compilation**.
 - **New APIs for HTTP/3 support in ASP.NET Core**.
 - **C# 13 introduces contextual keywords and pattern matching improvements**.
+
+[More information about .NET 9 here.](https://github.com/CristianSifuentes/.NET9)
 
 ---
 
@@ -58,6 +62,8 @@ This document provides a comprehensive overview of the new features and enhancem
 - **New collection APIs for .NET developers**.
 - **.NET MAUI enhancements for cross-platform development**.
 
+[More information about .NET 8 here.](https://github.com/CristianSifuentes/.NET8)
+
 ---
 
 ## What's New in .NET 7
@@ -65,6 +71,8 @@ This document provides a comprehensive overview of the new features and enhancem
 - **Improved LINQ APIs**.
 - **Simplified Blazor Hybrid development**.
 - **.NET SDK enhancements for CI/CD**.
+
+[More information about .NET 7 here.](https://github.com/CristianSifuentes/.NET7)
 
 ---
 
@@ -74,6 +82,8 @@ This document provides a comprehensive overview of the new features and enhancem
 - **Hot Reload for better developer experience**.
 - **File IO and networking enhancements**.
 
+[More information about .NET 6 here.](https://github.com/CristianSifuentes/.NET6)
+
 ---
 
 ## What's New in .NET 5
@@ -81,6 +91,9 @@ This document provides a comprehensive overview of the new features and enhancem
 - **New language features in C# 9**.
 - **Performance improvements in ASP.NET Core**.
 - **.NET MAUI introduced as the successor to Xamarin**.
+
+[More information about .NET 5 here.](https://github.com/CristianSifuentes/.NET5)
+
 
 ---
 This document is a summary of key improvements across .NET versions. For more details, visit the official [Microsoft .NET documentation](https://learn.microsoft.com/en-us/dotnet/).
