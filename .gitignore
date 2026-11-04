@@ -20,3 +20,11 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# .NET Atlas: compilación, laboratorio y herramientas
+[Bb]in/
+[Oo]bj/
+BenchmarkDotNet.Artifacts/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
