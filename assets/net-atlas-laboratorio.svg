@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 756" width="1200" height="756" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" role="img" aria-label="Tiempo relativo a .NET 8 en microbenchmarks">
+<title>Tiempo relativo a .NET 8 en microbenchmarks</title>
+<defs></defs>
+<rect width="1200" height="756" rx="14" fill="#0F0D22"/>
+<text x="40" y="50" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >Laboratorio: tiempo relativo a .NET 8</text>
+<text x="40" y="78" font-size="15" fill="#C4BFE0" font-weight="400" text-anchor="start" >Misma prueba en cada runtime · 100 % = .NET 8 · menos es mejor · Apple M4, una máquina</text>
+<text x="226" y="150" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >foreach sobre IEnumerable</text>
+<rect x="240" y="124" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="137" width="798.3" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="150" width="342.4" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="163" width="343.7" height="11" rx="3" fill="#BBD6F8"/>
+<text x="590.6913405347973" y="173" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >47 %</text>
+<text x="226" y="214" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >LINQ Where+Select+Sum</text>
+<rect x="240" y="188" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="201" width="818.6" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="214" width="827.6" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="227" width="782.3" height="11" rx="3" fill="#BBD6F8"/>
+<text x="1029.3157848402147" y="237" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >108 %</text>
+<text x="226" y="278" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >JSON serializar</text>
+<rect x="240" y="252" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="265" width="675.7" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="278" width="557.0" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="291" width="525.1" height="11" rx="3" fill="#BBD6F8"/>
+<text x="772.138752367481" y="301" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >72 %</text>
+<text x="226" y="342" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >JSON deserializar</text>
+<rect x="240" y="316" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="329" width="662.7" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="342" width="613.7" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="355" width="573.3" height="11" rx="3" fill="#BBD6F8"/>
+<text x="820.3412161495343" y="365" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >79 %</text>
+<text x="226" y="406" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >Dictionary&lt;string,int&gt;</text>
+<rect x="240" y="380" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="393" width="659.8" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="406" width="349.8" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="419" width="349.8" height="11" rx="3" fill="#BBD6F8"/>
+<text x="596.7584962756052" y="429" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >48 %</text>
+<text x="226" y="470" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >Regex.Count compilado</text>
+<rect x="240" y="444" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="457" width="717.3" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="470" width="702.0" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="483" width="715.7" height="11" rx="3" fill="#BBD6F8"/>
+<text x="973.0" y="493" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >99 %</text>
+<text x="226" y="534" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >string.Split</text>
+<rect x="240" y="508" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="521" width="782.4" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="534" width="695.7" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="547" width="702.4" height="11" rx="3" fill="#BBD6F8"/>
+<text x="973.0" y="557" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >97 %</text>
+<text x="226" y="598" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >1000 await Task.Yield</text>
+<rect x="240" y="572" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="585" width="700.5" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="598" width="716.9" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="611" width="340.5" height="11" rx="3" fill="#BBD6F8"/>
+<text x="587.4567067211566" y="621" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >47 %</text>
+<text x="226" y="662" font-size="14" fill="#F4F2FF" font-weight="500" text-anchor="end" >throw y catch</text>
+<rect x="240" y="636" width="725.0" height="11" rx="3" fill="#2F5F9E"/>
+<rect x="240" y="649" width="446.3" height="11" rx="3" fill="#3F7AC4"/>
+<rect x="240" y="662" width="89.8" height="11" rx="3" fill="#6BA3EA"/>
+<rect x="240" y="675" width="21.6" height="11" rx="3" fill="#BBD6F8"/>
+<text x="268.60542053553365" y="685" font-size="12" fill="#F4F2FF" font-weight="600" text-anchor="start" >3 %</text>
+<line x1="965.0" y1="114" x2="965.0" y2="696" stroke="#C4BFE0" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="40" y="716" width="16" height="16" rx="4" fill="#2F5F9E"/>
+<text x="63" y="729" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >.NET 8</text>
+<rect x="150" y="716" width="16" height="16" rx="4" fill="#3F7AC4"/>
+<text x="173" y="729" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >.NET 9</text>
+<rect x="260" y="716" width="16" height="16" rx="4" fill="#6BA3EA"/>
+<text x="283" y="729" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >.NET 10</text>
+<rect x="370" y="716" width="16" height="16" rx="4" fill="#BBD6F8"/>
+<text x="393" y="729" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >.NET 11</text>
+</svg>

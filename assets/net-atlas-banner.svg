@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" width="1600" height="440" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" role="img" aria-label=".NET Atlas"><title>.NET Atlas · De .NET 5 a .NET 11</title><defs><linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0920"/><stop offset="0.6" stop-color="#1A1145"/><stop offset="1" stop-color="#34188A"/></linearGradient><radialGradient id="halo" cx="0.82" cy="0.42" r="0.5"><stop offset="0" stop-color="#7C5CFC" stop-opacity="0.5"/><stop offset="1" stop-color="#7C5CFC" stop-opacity="0"/></radialGradient><pattern id="puntos" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity="0.05"/></pattern><linearGradient id="trazo" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6B4FE0"/><stop offset="1" stop-color="#C9B8FF"/></linearGradient><filter id="brillo" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1600" height="440" fill="url(#fondo)"/>
+<rect width="1600" height="440" fill="url(#halo)"/>
+<rect width="1600" height="440" fill="url(#puntos)"/>
+<text x="72" y="158" font-size="76" fill="#F8F7FF" font-weight="800" text-anchor="start" letter-spacing="9">.NET ATLAS</text>
+<text x="76" y="206" font-size="27" fill="#D9D2FF" font-weight="400" text-anchor="start" >De .NET 5 a .NET 11: runtime, lenguaje, nube e IA</text>
+<text x="76" y="242" font-size="17" fill="#A9A0D6" font-weight="400" text-anchor="start" >25 capítulos · 180 capacidades catalogadas · datos oficiales y laboratorio propio</text>
+<text x="76" y="270" font-size="17" fill="#A9A0D6" font-weight="400" text-anchor="start" >Edición del 4 de noviembre de 2026</text>
+<path d="M820 340.0 L932 313.0 L1044 271.2 L1156 221.0 L1268 164.6 L1380 102.9 L1492 36.7" fill="none" stroke="url(#trazo)" stroke-width="3" stroke-linecap="round"/>
+<circle cx="820" cy="340.0" r="21" fill="#3A3560" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="820" y="346.0" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >5</text>
+<text x="820" y="383.0" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >STS</text>
+<circle cx="932" cy="313.0" r="27" fill="#3A3560" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="932" y="319.0" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >6</text>
+<text x="932" y="362.0" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >LTS</text>
+<circle cx="1044" cy="271.2" r="21" fill="#3A3560" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="1044" y="277.1737261247598" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >7</text>
+<text x="1044" y="314.1737261247598" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >STS</text>
+<circle cx="1156" cy="221.0" r="27" fill="#d95926" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="1156" y="227.01904292739403" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >8</text>
+<text x="1156" y="270.019042927394" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >LTS</text>
+<circle cx="1268" cy="164.6" r="21" fill="#d95926" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="1268" y="170.55348238705312" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >9</text>
+<text x="1268" y="207.55348238705312" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >STS</text>
+<circle cx="1380" cy="102.9" r="27" fill="#199e70" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="1380" y="108.87722433228626" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >10</text>
+<text x="1380" y="151.87722433228626" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >LTS</text>
+<circle cx="1492" cy="36.7" r="21" fill="#c98500" stroke="#E9E4FF" stroke-width="2" filter="url(#brillo)"/>
+<text x="1492" y="42.70311342898623" font-size="19" fill="#FFFFFF" font-weight="700" text-anchor="middle" >11</text>
+<text x="1492" y="79.70311342898623" font-size="12" fill="#C9C2EE" font-weight="600" text-anchor="middle" >STS</text>
+<circle cx="83" cy="326" r="7" fill="#3A3560" stroke="#E9E4FF"/>
+<text x="98" y="331" font-size="14" fill="#D9D2FF" font-weight="400" text-anchor="start" >Sin soporte</text>
+<circle cx="200" cy="326" r="7" fill="#d95926" stroke="#E9E4FF"/>
+<text x="215" y="331" font-size="14" fill="#D9D2FF" font-weight="400" text-anchor="start" >Fin 10-nov-2026</text>
+<circle cx="348" cy="326" r="7" fill="#199e70" stroke="#E9E4FF"/>
+<text x="363" y="331" font-size="14" fill="#D9D2FF" font-weight="400" text-anchor="start" >Soporte activo</text>
+<circle cx="488" cy="326" r="7" fill="#c98500" stroke="#E9E4FF"/>
+<text x="503" y="331" font-size="14" fill="#D9D2FF" font-weight="400" text-anchor="start" >Release candidate</text>
+</svg>

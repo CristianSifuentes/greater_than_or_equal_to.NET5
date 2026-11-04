@@ -1,0 +1,492 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1750 1436" width="1750" height="1436" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" role="img" aria-label="Tabla periódica de .NET, de .NET 5 a .NET 11">
+<title>Tabla periódica de .NET, de .NET 5 a .NET 11</title>
+<defs></defs>
+<rect width="1750" height="1436" rx="14" fill="#0F0D22"/>
+<text x="40" y="60" font-size="34" fill="#F4F2FF" font-weight="700" text-anchor="start" >Tabla periódica de .NET</text>
+<text x="40" y="92" font-size="16" fill="#C4BFE0" font-weight="400" text-anchor="start" >101 elementos de 5 a 11 · cada fila es un periodo, cada color un grupo · edición 4 de noviembre de 2026</text>
+<text x="40" y="190" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 5</text>
+<text x="40" y="212" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La unificación</text>
+<rect x="214" y="150" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >1</text>
+<text x="223" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Rc</text>
+<text x="223" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Records</text>
+<rect x="340" y="150" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >2</text>
+<text x="349" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Tl</text>
+<text x="349" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Top-level</text>
+<text x="349" y="222" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >statements</text>
+<rect x="466" y="150" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="576" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >3</text>
+<text x="475" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >A6</text>
+<text x="475" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Windows Arm64</text>
+<rect x="592" y="150" width="118" height="92" rx="7" fill="#199e70" fill-opacity="0.16" stroke="#199e70" stroke-width="1.5"/>
+<text x="702" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >4</text>
+<text x="601" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Tr</text>
+<text x="601" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >App trimming</text>
+<rect x="718" y="150" width="118" height="92" rx="7" fill="#199e70" fill-opacity="0.16" stroke="#199e70" stroke-width="1.5"/>
+<text x="828" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >5</text>
+<text x="727" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Sf</text>
+<text x="727" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Single-file apps</text>
+<rect x="844" y="150" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="954" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >6</text>
+<text x="853" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Sj</text>
+<text x="853" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >System.Text.Json</text>
+<text x="853" y="222" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >maduro</text>
+<rect x="970" y="150" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1080" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >7</text>
+<text x="979" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >E5</text>
+<text x="979" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >EF Core 5 muchos a</text>
+<text x="979" y="222" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >muchos</text>
+<rect x="1096" y="150" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1206" y="166" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >8</text>
+<text x="1105" y="185" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Sg</text>
+<text x="1105" y="208" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Source generators</text>
+<text x="40" y="308" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 6</text>
+<text x="40" y="330" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La consolidación</text>
+<rect x="214" y="268" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >9</text>
+<text x="223" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Fn</text>
+<text x="223" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >File-scoped</text>
+<text x="223" y="340" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >namespaces</text>
+<rect x="340" y="268" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >10</text>
+<text x="349" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Gu</text>
+<text x="349" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >global using</text>
+<rect x="466" y="268" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="576" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >11</text>
+<text x="475" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ap</text>
+<text x="475" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Apple Silicon</text>
+<rect x="592" y="268" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="702" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >12</text>
+<text x="601" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Dt</text>
+<text x="601" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >DateOnly y</text>
+<text x="601" y="340" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >TimeOnly</text>
+<rect x="718" y="268" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="828" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >13</text>
+<text x="727" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Jg</text>
+<text x="727" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Source generator</text>
+<text x="727" y="340" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >de JSON</text>
+<rect x="844" y="268" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="954" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >14</text>
+<text x="853" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ma</text>
+<text x="853" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Minimal APIs</text>
+<rect x="970" y="268" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1080" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >15</text>
+<text x="979" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Mi</text>
+<text x="979" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >.NET MAUI</text>
+<rect x="1096" y="268" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1206" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >16</text>
+<text x="1105" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >E6</text>
+<text x="1105" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Tablas temporales</text>
+<text x="1105" y="340" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >EF Core</text>
+<rect x="1222" y="268" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="1332" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >17</text>
+<text x="1231" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Mt</text>
+<text x="1231" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >API de métricas</text>
+<rect x="1348" y="268" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1458" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >18</text>
+<text x="1357" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Hr</text>
+<text x="1357" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Hot Reload</text>
+<rect x="1474" y="268" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1584" y="284" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >19</text>
+<text x="1483" y="303" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Wx</text>
+<text x="1483" y="326" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >W^X</text>
+<text x="40" y="426" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 7</text>
+<text x="40" y="448" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La velocidad</text>
+<rect x="214" y="386" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >20</text>
+<text x="223" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Gm</text>
+<text x="223" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Generic math</text>
+<rect x="340" y="386" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >21</text>
+<text x="349" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Lp</text>
+<text x="349" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >List patterns</text>
+<rect x="466" y="386" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="576" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >22</text>
+<text x="475" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ra</text>
+<text x="475" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Raw string</text>
+<text x="475" y="458" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >literals</text>
+<rect x="592" y="386" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="702" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >23</text>
+<text x="601" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Gr</text>
+<text x="601" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >GC Regions</text>
+<rect x="718" y="386" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="828" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >24</text>
+<text x="727" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Os</text>
+<text x="727" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >On-stack</text>
+<text x="727" y="458" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >replacement</text>
+<rect x="844" y="386" width="118" height="92" rx="7" fill="#199e70" fill-opacity="0.16" stroke="#199e70" stroke-width="1.5"/>
+<text x="954" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >25</text>
+<text x="853" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Na</text>
+<text x="853" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Native AOT</text>
+<rect x="970" y="386" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1080" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >26</text>
+<text x="979" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Rx</text>
+<text x="979" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Regex source</text>
+<text x="979" y="458" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >generator</text>
+<rect x="1096" y="386" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1206" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >27</text>
+<text x="1105" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >H3</text>
+<text x="1105" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >HTTP/3 en Kestrel</text>
+<rect x="1222" y="386" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1332" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >28</text>
+<text x="1231" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Oc</text>
+<text x="1231" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Output caching</text>
+<rect x="1348" y="386" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1458" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >29</text>
+<text x="1357" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Rl</text>
+<text x="1357" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Rate limiting</text>
+<rect x="1474" y="386" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1584" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >30</text>
+<text x="1483" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ex</text>
+<text x="1483" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >ExecuteUpdate y</text>
+<text x="1483" y="458" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >ExecuteDelete</text>
+<rect x="1600" y="386" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1710" y="402" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >31</text>
+<text x="1609" y="421" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Jn</text>
+<text x="1609" y="444" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >JSON columns EF</text>
+<text x="1609" y="458" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Core</text>
+<rect x="214" y="486" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="324" y="502" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >32</text>
+<text x="223" y="521" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Pc</text>
+<text x="223" y="544" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Publicación de</text>
+<text x="223" y="558" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >contenedores</text>
+<text x="40" y="644" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 8</text>
+<text x="40" y="666" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La nube nativa</text>
+<rect x="214" y="604" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >33</text>
+<text x="223" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ce</text>
+<text x="223" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Collection</text>
+<text x="223" y="676" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >expressions</text>
+<rect x="340" y="604" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >34</text>
+<text x="349" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Pp</text>
+<text x="349" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Primary</text>
+<text x="349" y="676" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >constructors</text>
+<rect x="466" y="604" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="576" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >35</text>
+<text x="475" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >V5</text>
+<text x="475" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >AVX-512 y</text>
+<text x="475" y="676" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Vector512</text>
+<rect x="592" y="604" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="702" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >36</text>
+<text x="601" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Dp</text>
+<text x="601" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Dynamic PGO por</text>
+<text x="601" y="676" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >defecto</text>
+<rect x="718" y="604" width="118" height="92" rx="7" fill="#199e70" fill-opacity="0.16" stroke="#199e70" stroke-width="1.5"/>
+<text x="828" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >37</text>
+<text x="727" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ch</text>
+<text x="727" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Imágenes chiseled</text>
+<rect x="844" y="604" width="118" height="92" rx="7" fill="#199e70" fill-opacity="0.16" stroke="#199e70" stroke-width="1.5"/>
+<text x="954" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >38</text>
+<text x="853" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Nw</text>
+<text x="853" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Native AOT en</text>
+<text x="853" y="676" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >ASP.NET Core</text>
+<rect x="970" y="604" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1080" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >39</text>
+<text x="979" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Fz</text>
+<text x="979" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Frozen collections</text>
+<rect x="1096" y="604" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1206" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >40</text>
+<text x="1105" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ks</text>
+<text x="1105" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Keyed services</text>
+<rect x="1222" y="604" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1332" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >41</text>
+<text x="1231" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Sv</text>
+<text x="1231" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >SearchValues</text>
+<rect x="1348" y="604" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1458" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >42</text>
+<text x="1357" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Tp</text>
+<text x="1357" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >TimeProvider</text>
+<rect x="1474" y="604" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1584" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >43</text>
+<text x="1483" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Bw</text>
+<text x="1483" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Blazor Web App</text>
+<rect x="1600" y="604" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1710" y="620" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >44</text>
+<text x="1609" y="639" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Cx</text>
+<text x="1609" y="662" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Complex types EF</text>
+<text x="1609" y="676" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Core</text>
+<rect x="214" y="704" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="324" y="720" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >45</text>
+<text x="223" y="739" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >As</text>
+<text x="223" y="762" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >.NET Aspire 8</text>
+<rect x="340" y="704" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="450" y="720" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >46</text>
+<text x="349" y="739" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Tn</text>
+<text x="349" y="762" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >TensorPrimitives</text>
+<text x="40" y="862" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 9</text>
+<text x="40" y="884" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La adaptación</text>
+<rect x="214" y="822" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >47</text>
+<text x="223" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Pa</text>
+<text x="223" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >params collections</text>
+<rect x="340" y="822" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >48</text>
+<text x="349" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Lk</text>
+<text x="349" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >System.Threading.</text>
+<text x="349" y="894" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Lock</text>
+<rect x="466" y="822" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="576" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >49</text>
+<text x="475" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >D9</text>
+<text x="475" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >DATAS por defecto</text>
+<rect x="592" y="822" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="702" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >50</text>
+<text x="601" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Xc</text>
+<text x="601" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Excepciones</text>
+<text x="601" y="894" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >administradas</text>
+<rect x="718" y="822" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="828" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >51</text>
+<text x="727" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >We</text>
+<text x="727" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Task.WhenEach</text>
+<rect x="844" y="822" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="954" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >52</text>
+<text x="853" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Hc</text>
+<text x="853" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >HybridCache</text>
+<rect x="970" y="822" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1080" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >53</text>
+<text x="979" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ms</text>
+<text x="979" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >MapStaticAssets</text>
+<rect x="1096" y="822" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1206" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >54</text>
+<text x="1105" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Oa</text>
+<text x="1105" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >OpenAPI integrado</text>
+<rect x="1222" y="822" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1332" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >55</text>
+<text x="1231" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Wf</text>
+<text x="1231" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >WPF Fluent</text>
+<rect x="1348" y="822" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1458" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >56</text>
+<text x="1357" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Cd</text>
+<text x="1357" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Cosmos DB provider</text>
+<text x="1357" y="894" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >renovado</text>
+<rect x="1474" y="822" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="1584" y="838" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >57</text>
+<text x="1483" y="857" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ai</text>
+<text x="1483" y="880" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Microsoft.</text>
+<text x="1483" y="894" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Extensions.AI</text>
+<text x="40" y="980" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 10</text>
+<text x="40" y="1002" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La madurez</text>
+<rect x="214" y="940" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >58</text>
+<text x="223" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Sc</text>
+<text x="223" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Conversiones</text>
+<text x="223" y="1012" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >implícitas de Span</text>
+<rect x="340" y="940" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >59</text>
+<text x="349" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Xm</text>
+<text x="349" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Extension members</text>
+<rect x="466" y="940" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="576" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >60</text>
+<text x="475" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Fk</text>
+<text x="475" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >field keyword</text>
+<rect x="592" y="940" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="702" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >61</text>
+<text x="601" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >De</text>
+<text x="601" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >De-abstraction en</text>
+<text x="601" y="1012" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >JIT</text>
+<rect x="718" y="940" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="828" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >62</text>
+<text x="727" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Es</text>
+<text x="727" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Escape analysis</text>
+<rect x="844" y="940" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="954" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >63</text>
+<text x="853" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Lj</text>
+<text x="853" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >LeftJoin y</text>
+<text x="853" y="1012" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >RightJoin</text>
+<rect x="970" y="940" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1080" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >64</text>
+<text x="979" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Xg</text>
+<text x="979" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Generador de XAML</text>
+<rect x="1096" y="940" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1206" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >65</text>
+<text x="1105" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Se</text>
+<text x="1105" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Server-Sent Events</text>
+<rect x="1222" y="940" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="1332" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >66</text>
+<text x="1231" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Vl</text>
+<text x="1231" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Validación en</text>
+<text x="1231" y="1012" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Minimal APIs</text>
+<rect x="1348" y="940" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1458" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >67</text>
+<text x="1357" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Vs</text>
+<text x="1357" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Búsqueda vectorial</text>
+<text x="1357" y="1012" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >EF Core</text>
+<rect x="1474" y="940" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="1584" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >68</text>
+<text x="1483" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Qf</text>
+<text x="1483" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Named query</text>
+<text x="1483" y="1012" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >filters</text>
+<rect x="1600" y="940" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="1710" y="956" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >69</text>
+<text x="1609" y="975" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >A3</text>
+<text x="1609" y="998" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Aspire 13</text>
+<rect x="214" y="1040" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="324" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >70</text>
+<text x="223" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ag</text>
+<text x="223" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Microsoft Agent</text>
+<text x="223" y="1112" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Framework</text>
+<rect x="340" y="1040" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="450" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >71</text>
+<text x="349" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Mc</text>
+<text x="349" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >SDK C# de MCP</text>
+<rect x="466" y="1040" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="576" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >72</text>
+<text x="475" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Qm</text>
+<text x="475" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Criptografía</text>
+<text x="475" y="1112" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >poscuántica</text>
+<rect x="592" y="1040" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="702" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >73</text>
+<text x="601" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Dx</text>
+<text x="601" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >dotnet tool exec y</text>
+<text x="601" y="1112" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >dnx</text>
+<rect x="718" y="1040" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="828" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >74</text>
+<text x="727" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Fb</text>
+<text x="727" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >File-based apps</text>
+<rect x="844" y="1040" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="954" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >75</text>
+<text x="853" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Mp</text>
+<text x="853" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Microsoft.</text>
+<text x="853" y="1112" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Testing.Platform</text>
+<rect x="970" y="1040" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1080" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >76</text>
+<text x="979" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Nu</text>
+<text x="979" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >NuGet audit</text>
+<text x="979" y="1112" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >transitivo</text>
+<rect x="1096" y="1040" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1206" y="1056" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >77</text>
+<text x="1105" y="1075" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Pk</text>
+<text x="1105" y="1098" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Passkeys en</text>
+<text x="1105" y="1112" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Identity</text>
+<text x="40" y="1198" font-size="28" fill="#F4F2FF" font-weight="700" text-anchor="start" >.NET 11</text>
+<text x="40" y="1220" font-size="13" fill="#C4BFE0" font-weight="400" text-anchor="start" >La reescritura silenciosa</text>
+<rect x="214" y="1158" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="324" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >78</text>
+<text x="223" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Wa</text>
+<text x="223" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Argumentos en</text>
+<text x="223" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >colecciones</text>
+<rect x="340" y="1158" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="450" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >79</text>
+<text x="349" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Cl</text>
+<text x="349" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Closed hierarchies</text>
+<rect x="466" y="1158" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="576" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >80</text>
+<text x="475" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Lb</text>
+<text x="475" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Labeled break y</text>
+<text x="475" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >continue</text>
+<rect x="592" y="1158" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="702" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >81</text>
+<text x="601" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Mm</text>
+<text x="601" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Seguridad de</text>
+<text x="601" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >memoria</text>
+<rect x="718" y="1158" width="118" height="92" rx="7" fill="#3987e5" fill-opacity="0.16" stroke="#3987e5" stroke-width="1.5"/>
+<text x="828" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >82</text>
+<text x="727" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Un</text>
+<text x="727" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Union types</text>
+<rect x="844" y="1158" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="954" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >83</text>
+<text x="853" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Cm</text>
+<text x="853" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >CoreCLR en móvil</text>
+<rect x="970" y="1158" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5"/>
+<text x="1080" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >84</text>
+<text x="979" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >X2</text>
+<text x="979" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Línea base</text>
+<text x="979" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >x86-64-v2</text>
+<rect x="1096" y="1158" width="118" height="92" rx="7" fill="#d95926" fill-opacity="0.16" stroke="#d95926" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="1206" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >85</text>
+<text x="1105" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Rn</text>
+<text x="1105" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Runtime Async</text>
+<rect x="1222" y="1158" width="118" height="92" rx="7" fill="#199e70" fill-opacity="0.16" stroke="#199e70" stroke-width="1.5"/>
+<text x="1332" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >86</text>
+<text x="1231" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >R6</text>
+<text x="1231" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Ubuntu 26.04</text>
+<text x="1231" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >resolute</text>
+<rect x="1348" y="1158" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1458" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >87</text>
+<text x="1357" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Dc</text>
+<text x="1357" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Decimal32/64/128</text>
+<rect x="1474" y="1158" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1584" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >88</text>
+<text x="1483" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Rt</text>
+<text x="1483" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Process.</text>
+<text x="1483" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >RunAndCaptureText</text>
+<rect x="1600" y="1158" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="1710" y="1174" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >89</text>
+<text x="1609" y="1193" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ju</text>
+<text x="1609" y="1216" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Uniones en</text>
+<text x="1609" y="1230" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >System.Text.Json</text>
+<rect x="214" y="1258" width="118" height="92" rx="7" fill="#c98500" fill-opacity="0.16" stroke="#c98500" stroke-width="1.5"/>
+<text x="324" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >90</text>
+<text x="223" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Zs</text>
+<text x="223" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Zstandard</text>
+<rect x="340" y="1258" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="450" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >91</text>
+<text x="349" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >O2</text>
+<text x="349" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >OpenAPI 3.2</text>
+<rect x="466" y="1258" width="118" height="92" rx="7" fill="#d55181" fill-opacity="0.16" stroke="#d55181" stroke-width="1.5"/>
+<text x="576" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >92</text>
+<text x="475" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Xh</text>
+<text x="475" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >XAML Incremental</text>
+<text x="475" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Hot Reload</text>
+<rect x="592" y="1258" width="118" height="92" rx="7" fill="#008300" fill-opacity="0.16" stroke="#008300" stroke-width="1.5"/>
+<text x="702" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >93</text>
+<text x="601" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Hy</text>
+<text x="601" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Consultas híbridas</text>
+<text x="601" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >EF Core</text>
+<rect x="718" y="1258" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="828" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >94</text>
+<text x="727" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ba</text>
+<text x="727" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Blazor AI</text>
+<text x="727" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >components</text>
+<rect x="844" y="1258" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="954" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >95</text>
+<text x="853" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Mv</text>
+<text x="853" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Plantilla</text>
+<text x="853" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >mcpserver en el SDK</text>
+<rect x="970" y="1258" width="118" height="92" rx="7" fill="#9085e9" fill-opacity="0.16" stroke="#9085e9" stroke-width="1.5"/>
+<text x="1080" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >96</text>
+<text x="979" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ot</text>
+<text x="979" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Tracing nativo en</text>
+<text x="979" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >ASP.NET Core</text>
+<rect x="1096" y="1258" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1206" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >97</text>
+<text x="1105" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Ic</text>
+<text x="1105" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >#:include en</text>
+<text x="1105" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >file-based apps</text>
+<rect x="1222" y="1258" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1332" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >98</text>
+<text x="1231" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Cn</text>
+<text x="1231" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >CLI con NativeAOT</text>
+<rect x="1348" y="1258" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="1458" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >99</text>
+<text x="1357" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Db</text>
+<text x="1357" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Device Bound</text>
+<text x="1357" y="1330" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >Sessions</text>
+<rect x="1474" y="1258" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="1584" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >100</text>
+<text x="1483" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >Du</text>
+<text x="1483" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >dotnetup</text>
+<rect x="1600" y="1258" width="118" height="92" rx="7" fill="#e66767" fill-opacity="0.16" stroke="#e66767" stroke-width="1.5"/>
+<text x="1710" y="1274" font-size="10" fill="#8D87AD" font-weight="400" text-anchor="end" >101</text>
+<text x="1609" y="1293" font-size="25" fill="#F4F2FF" font-weight="700" text-anchor="start" >X5</text>
+<text x="1609" y="1316" font-size="11" fill="#C4BFE0" font-weight="400" text-anchor="start" >X25519</text>
+<rect x="40" y="1392" width="16" height="16" rx="4" fill="#3987e5"/>
+<text x="63" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Lenguaje</text>
+<rect x="143" y="1392" width="16" height="16" rx="4" fill="#d95926"/>
+<text x="166" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Runtime</text>
+<rect x="238" y="1392" width="16" height="16" rx="4" fill="#199e70"/>
+<text x="261" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >AOT y despliegue</text>
+<rect x="400" y="1392" width="16" height="16" rx="4" fill="#c98500"/>
+<text x="423" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Bibliotecas base</text>
+<rect x="562" y="1392" width="16" height="16" rx="4" fill="#d55181"/>
+<text x="585" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Web y clientes</text>
+<rect x="709" y="1392" width="16" height="16" rx="4" fill="#008300"/>
+<text x="732" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Datos</text>
+<rect x="790" y="1392" width="16" height="16" rx="4" fill="#9085e9"/>
+<text x="813" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Nube e IA</text>
+<rect x="900" y="1392" width="16" height="16" rx="4" fill="#e66767"/>
+<text x="923" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >SDK y seguridad</text>
+<rect x="1055" y="1392" width="16" height="16" rx="4" fill="none" stroke="#C4BFE0" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="1078" y="1405" font-size="14" fill="#C4BFE0" font-weight="400" text-anchor="start" >Preview o experimental</text>
+</svg>
