@@ -1,0 +1,181 @@
+nombre,area,version,estado,descripcion,capitulo,simbolo,poster
+Records,lenguaje,5,GA,Tipos con igualdad por valor y mutación no destructiva con with (C# 9),10,Rc,1
+Init-only setters,lenguaje,5,GA,Propiedades asignables solo durante la inicialización (C# 9),10,In,0
+Top-level statements,lenguaje,5,GA,Programa sin clase Program ni Main explícitos (C# 9),10,Tl,1
+Patrones relacionales y lógicos,lenguaje,5,GA,"and, or, not, <, > dentro de patrones (C# 9)",10,Pr,0
+Function pointers,lenguaje,5,GA,delegate* expone ldftn y calli para interop de alto rendimiento (C# 9),10,Fp,0
+Source generators,sdk,5,GA,Código generado por Roslyn durante la compilación,19,Sg,1
+System.Text.Json maduro,bcl,5,GA,"Records, campos, referencias circulares y extensiones de HttpClient",13,Sj,1
+Single-file apps,despliegue,5,GA,Publicación en un solo ejecutable,12,Sf,1
+App trimming,despliegue,5,GA,Recorte de ensamblados no usados en publicación autocontenida,12,Tr,1
+Windows Arm64,runtime,5,GA,Soporte nativo de Windows sobre Arm64 e intrínsecos Arm64,11,A6,1
+Anotaciones de nulabilidad en BCL,bcl,5,GA,80 % de las bibliotecas anotadas para tipos de referencia anulables,13,Nn,0
+EF Core 5 muchos a muchos,datos,5,GA,"Muchos a muchos sin entidad intermedia, TPT y split queries",15,E5,1
+Blazor CSS isolation,web,5,GA,CSS con ámbito de componente y lazy loading en WebAssembly,14,Cs,0
+File-scoped namespaces,lenguaje,6,GA,namespace X; sin llaves ni sangría adicional (C# 10),10,Fn,1
+global using,lenguaje,6,GA,Directivas using compartidas por todo el proyecto (C# 10),10,Gu,1
+Record structs,lenguaje,6,GA,record struct y readonly record struct (C# 10),10,Rs,0
+Interpolated string handlers,lenguaje,6,GA,Interpolación sin asignaciones cuando no hace falta (C# 10),10,Ih,0
+Minimal APIs,web,6,GA,Endpoints HTTP con MapGet y WebApplication,14,Ma,1
+Hot Reload,sdk,6,GA,Aplicar cambios a una app en ejecución con dotnet watch o Visual Studio,19,Hr,1
+Dynamic PGO (opt-in),runtime,6,GA,Optimización guiada por perfil durante la ejecución; habilitada por configuración,11,Pg,0
+Crossgen2,despliegue,6,GA,Compilador ReadyToRun escrito en C#,12,Cg,0
+FileStream reescrito,bcl,6,GA,"Nueva implementación que nunca bloquea con E/S asíncrona en Windows",13,Fs,0
+Apple Silicon,runtime,6,GA,Soporte nativo de macOS Arm64 y emulación x64 lado a lado,11,Ap,1
+Source generator de JSON,bcl,6,GA,JsonSerializerContext con metadatos en compilación,13,Jg,1
+LINQ Chunk y MaxBy,bcl,6,GA,"Chunk, MaxBy, MinBy, DistinctBy e índices con Index y Range",13,Lq,0
+DateOnly y TimeOnly,bcl,6,GA,Fecha y hora como tipos separados,13,Dt,1
+PriorityQueue,bcl,6,GA,Cola de prioridad con montículo mínimo,13,Pq,0
+LoggerMessage generado,bcl,6,GA,Registro de alto rendimiento mediante source generator,17,Lg,0
+API de métricas,cloud,6,GA,API de métricas alineada con OpenTelemetry,17,Mt,1
+.NET MAUI,clientes,6,GA,UI multiplataforma; GA en mayo de 2022 sobre .NET 6,16,Mi,1
+Tablas temporales EF Core,datos,6,GA,"Temporal tables, modelos compilados y migration bundles",15,E6,1
+Workloads del SDK,sdk,6,GA,dotnet workload para componentes opcionales,19,Wk,0
+W^X,seguridad,6,GA,Páginas nunca escribibles y ejecutables a la vez; por defecto desde .NET 7,20,Wx,1
+Generic math,lenguaje,7,GA,Miembros static abstract e interfaces INumber<T> (C# 11),10,Gm,1
+Raw string literals,lenguaje,7,GA,Cadenas con triple comilla (C# 11),10,Ra,1
+List patterns,lenguaje,7,GA,"Patrones sobre listas con [1, .., 9] (C# 11)",10,Lp,1
+required members,lenguaje,7,GA,Inicialización obligatoria verificada por el compilador (C# 11),10,Rq,0
+UTF-8 literals,lenguaje,7,GA,"Sufijo u8 para ReadOnlySpan<byte> (C# 11)",10,U8,0
+ref fields,lenguaje,7,GA,Campos ref y scoped en ref struct (C# 11),10,Rf,0
+On-stack replacement,runtime,7,GA,Sustitución de código durante la ejecución de un método largo,11,Os,1
+GC Regions,runtime,7,GA,Regiones en lugar de segmentos en el GC de 64 bits,11,Gr,1
+Native AOT,despliegue,7,GA,Ejecutable nativo sin JIT; en .NET 7 orientado a consola,12,Na,1
+Regex source generator,bcl,7,GA,GeneratedRegex y modo NonBacktracking de tiempo lineal,13,Rx,1
+Contract customization JSON,bcl,7,GA,Contratos personalizables y polimorfismo en System.Text.Json,13,Jc,0
+Tar APIs,bcl,7,GA,System.Formats.Tar en la biblioteca base,13,Ta,0
+Int128,bcl,7,GA,Int128 y UInt128 con generic math,13,I8,0
+Rate limiting,web,7,GA,Middleware y primitivas System.Threading.RateLimiting,14,Rl,1
+Output caching,web,7,GA,Caché de respuestas en servidor,14,Oc,1
+Endpoint filters,web,7,GA,Filtros y route groups en Minimal APIs,14,Ef,0
+HTTP/3 en Kestrel,web,7,GA,HTTP/3 y QUIC soportados en servidor,14,H3,1
+ExecuteUpdate y ExecuteDelete,datos,7,GA,Operaciones masivas sin cargar entidades,15,Ex,1
+JSON columns EF Core,datos,7,GA,Columnas JSON y herencia TPC,15,Jn,1
+Publicación de contenedores,sdk,7,GA,dotnet publish crea imágenes OCI sin Dockerfile,12,Pc,1
+Primary constructors,lenguaje,8,GA,Constructores primarios en clases y structs (C# 12),10,Pp,1
+Collection expressions,lenguaje,8,GA,"Sintaxis unificada [1, 2, .. resto] (C# 12)",10,Ce,1
+Alias de cualquier tipo,lenguaje,8,GA,"using para tuplas, punteros y arrays (C# 12)",10,Al,0
+Inline arrays,lenguaje,8,GA,Búferes de tamaño fijo seguros en structs (C# 12),10,Ia,0
+Interceptors,lenguaje,8,Experimental,Sustitución de llamadas en compilación; experimental en C# 12,10,It,0
+Dynamic PGO por defecto,runtime,8,GA,PGO dinámico habilitado de forma predeterminada,11,Dp,1
+AVX-512 y Vector512,runtime,8,GA,Vector512<T> e intrínsecos AVX-512,11,V5,1
+DATAS,runtime,8,Preview,Adaptación dinámica a tamaño de aplicación; por defecto en Server GC desde .NET 9,11,Da,0
+GC.RefreshMemoryLimit,runtime,8,GA,Ajuste del límite de memoria en ejecución,11,Gl,0
+Native AOT en ASP.NET Core,despliegue,8,GA,Minimal APIs y gRPC con publicación nativa,12,Nw,1
+Imágenes chiseled,despliegue,8,GA,Imágenes Ubuntu distroless sin shell ni gestor de paquetes,12,Ch,1
+Usuario no root y puerto 8080,despliegue,8,GA,Imágenes con usuario app (UID 1654) y puerto predeterminado 8080,12,Nr,0
+Frozen collections,bcl,8,GA,FrozenDictionary y FrozenSet para lectura intensiva,13,Fz,1
+SearchValues,bcl,8,GA,Búsqueda vectorizada de conjuntos,13,Sv,1
+TimeProvider,bcl,8,GA,Abstracción de tiempo comprobable,13,Tp,1
+Keyed services,bcl,8,GA,Inyección de dependencias con clave,13,Ks,1
+TensorPrimitives,ia,8,GA,Operaciones numéricas vectorizadas para IA,18,Tn,1
+Blazor Web App,web,8,GA,"SSR, modos de renderizado por componente y streaming rendering",14,Bw,1
+Identity API endpoints,web,8,GA,MapIdentityApi para aplicaciones SPA y móviles,14,Id,0
+IExceptionHandler,web,8,GA,Manejo centralizado de excepciones,14,Eh,0
+Complex types EF Core,datos,8,GA,Objetos de valor y colecciones primitivas,15,Cx,1
+.NET Aspire 8,cloud,8,GA,Orquestación y panel local; GA en mayo de 2024,17,As,1
+Metrics de ASP.NET Core,cloud,8,GA,Instrumentación integrada e IMeterFactory,17,Am,0
+params collections,lenguaje,9,GA,params con Span y colecciones (C# 13),10,Pa,1
+System.Threading.Lock,lenguaje,9,GA,Nuevo tipo Lock integrado con la instrucción lock (C# 13),10,Lk,1
+allows ref struct,lenguaje,9,GA,Genéricos sobre ref struct (C# 13),10,Ar,0
+Partial properties,lenguaje,9,GA,Propiedades e indexadores parciales (C# 13),10,Pt,0
+OverloadResolutionPriority,lenguaje,9,GA,Prioridad explícita de sobrecargas para autores de bibliotecas,10,Or,0
+DATAS por defecto,runtime,9,GA,Server GC adapta el heap al tamaño de datos activos,11,D9,1
+Excepciones administradas,runtime,9,GA,Nuevo manejo de excepciones derivado de NativeAOT,11,Xc,1
+Stack allocation de boxes,runtime,9,GA,Asignación en pila de objetos que no escapan,11,Sb,0
+Arm64 SVE,runtime,9,GA,Soporte inicial de Scalable Vector Extension,11,Sw,0
+CET,seguridad,9,GA,Control-flow Enforcement Technology por defecto en Windows,20,Ct,0
+MapStaticAssets,web,9,GA,Activos estáticos con compresión y huellas en compilación,14,Ms,1
+OpenAPI integrado,web,9,GA,Microsoft.AspNetCore.OpenApi reemplaza a Swashbuckle en las plantillas,14,Oa,1
+HybridCache,web,9,GA,Caché L1 y L2 con protección contra estampidas,14,Hc,1
+Blazor render mode info,web,9,GA,RendererInfo y AssignedRenderMode en componentes,14,Bi,0
+JSON Schema exporter,bcl,9,GA,JsonSchemaExporter genera esquemas desde tipos,13,Js,0
+Task.WhenEach,bcl,9,GA,Procesar tareas a medida que terminan,13,We,1
+CountBy y AggregateBy,bcl,9,GA,Nuevas agregaciones LINQ sin GroupBy intermedio,13,Cb,0
+OrderedDictionary genérico,bcl,9,GA,Diccionario que conserva el orden de inserción,13,Od,0
+PersistedAssemblyBuilder,bcl,9,GA,Guardar ensamblados emitidos en disco,13,Ab,0
+Tensor<T>,ia,9,Preview,Tipo tensorial; estable en .NET 10,18,T9,0
+Microsoft.Extensions.AI,ia,9,GA,IChatClient y abstracciones comunes de IA,18,Ai,1
+Consultas precompiladas EF Core,datos,9,Experimental,Soporte de AOT y consultas precompiladas,15,Qc,0
+Cosmos DB provider renovado,datos,9,GA,Reescritura importante del proveedor Cosmos DB,15,Cd,1
+Aspire 9,cloud,9,GA,Panel independiente y control de ciclo de vida de recursos,17,A9,0
+WPF Fluent,clientes,9,GA,Tema Fluent para WPF,16,Wf,1
+WinForms modo oscuro,clientes,9,Experimental,Color mode y API asíncronas para formularios,16,Wd,0
+Extension members,lenguaje,10,GA,Bloques extension con propiedades y miembros estáticos (C# 14),10,Xm,1
+field keyword,lenguaje,10,GA,Acceso al campo respaldado por el compilador (C# 14),10,Fk,1
+Conversiones implícitas de Span,lenguaje,10,GA,Span y ReadOnlySpan como conversión de primera clase (C# 14),10,Sc,1
+Null-conditional assignment,lenguaje,10,GA,"a?.B = c (C# 14)",10,Nc,0
+Compound assignment definido,lenguaje,10,GA,"Operadores += y ++ definidos por el usuario (C# 14)",10,Ca,0
+Partial constructors,lenguaje,10,GA,Constructores y eventos parciales (C# 14),10,Po,0
+De-abstraction en JIT,runtime,10,GA,Devirtualización de arrays y asignación en pila de enumeradores,11,De,1
+Escape analysis,runtime,10,GA,Asignación en pila de arrays pequeños y delegados,11,Es,1
+AVX10.2,runtime,10,Preview,Intrínsecos incluidos; deshabilitados por defecto al salir .NET 10,11,Av,0
+Write barrier Arm64,runtime,10,GA,Reducción de pausas de GC de 8 % a más de 20 % en pruebas,11,Wb,0
+Layout con 3-opt,runtime,10,GA,Ordenamiento de bloques como TSP asimétrico,11,L3,0
+Criptografía poscuántica,seguridad,10,GA,"ML-KEM y ML-DSA estables; SLH-DSA y Composite ML-DSA experimentales",20,Qm,1
+NuGet audit transitivo,seguridad,10,GA,dotnet restore audita dependencias transitivas,20,Nu,1
+Passkeys en Identity,seguridad,10,GA,Soporte de WebAuthn y passkeys en ASP.NET Core Identity,14,Pk,1
+File-based apps,sdk,10,GA,dotnet run app.cs sin archivo de proyecto,19,Fb,1
+dotnet tool exec y dnx,sdk,10,GA,Ejecución puntual de herramientas,19,Dx,1
+SLNX,sdk,10,GA,Formato de solución XML predeterminado en dotnet new sln,19,Sl,0
+Microsoft.Testing.Platform,sdk,10,GA,dotnet test con MTP,19,Mp,1
+Validación en Minimal APIs,web,10,GA,AddValidation con generación de código,14,Vl,1
+Server-Sent Events,web,10,GA,TypedResults.ServerSentEvents,14,Se,1
+OpenAPI 3.1,web,10,GA,Versión predeterminada de los documentos generados,14,O3,0
+Persistencia de estado Blazor,web,10,GA,Estado declarativo y persistencia de circuitos,14,Bp,0
+WebSocketStream,bcl,10,GA,API de Stream sobre WebSocket,13,Wt,0
+LeftJoin y RightJoin,bcl,10,GA,Nuevos operadores LINQ,13,Lj,1
+AsyncEnumerable en BCL,bcl,10,GA,LINQ asíncrono como parte de las bibliotecas base,13,Ae,0
+Tensor<T> estable,ia,10,GA,API tensorial finalizada en System.Numerics.Tensors,18,Tt,0
+Búsqueda vectorial EF Core,datos,10,GA,VECTOR y JSON nativos en SQL Server,15,Vs,1
+Named query filters,datos,10,GA,Múltiples filtros globales por entidad,15,Qf,1
+LeftJoin en EF Core,datos,10,GA,Traducción de LeftJoin y RightJoin a SQL,15,Ej,0
+Microsoft Agent Framework,ia,10,GA,Sucesor unificado de Semantic Kernel y AutoGen; 1.0 en abril de 2026,18,Ag,1
+SDK C# de MCP,ia,10,GA,Plantilla mcpserver y SDK oficial para Model Context Protocol,18,Mc,1
+Aspire 13,cloud,10,GA,Orquestación políglota y AppHost de un solo archivo,17,A3,1
+Imágenes Ubuntu por defecto,despliegue,10,GA,Las imágenes .NET 10 usan Ubuntu 24.04 por defecto,12,Ub,0
+Generador de XAML,clientes,10,GA,Generación de código para XAML en .NET MAUI,16,Xg,1
+Union types,lenguaje,11,RC,Tipos union con exhaustividad en switch (C# 15),10,Un,1
+Closed hierarchies,lenguaje,11,RC,Modificador closed para jerarquías exhaustivas (C# 15),10,Cl,1
+Argumentos en colecciones,lenguaje,11,RC,"with(...) dentro de una expresión de colección (C# 15)",10,Wa,1
+Extension indexers,lenguaje,11,RC,Indexadores en bloques extension (C# 15),10,Xi,0
+Labeled break y continue,lenguaje,11,RC,Saltos con etiqueta en ciclos anidados (C# 15),10,Lb,1
+Seguridad de memoria,lenguaje,11,Preview,Nuevas reglas unsafe; requiere preview y una bandera,10,Mm,1
+Runtime Async,runtime,11,Preview,Suspensión async gestionada por el runtime; las bibliotecas ya compilan con ella,11,Rn,1
+CoreCLR en móvil,runtime,11,RC,CoreCLR reemplaza a Mono como runtime predeterminado de MAUI,16,Cm,1
+CoreCLR en WebAssembly,runtime,11,Preview,Avanza la ejecución de CoreCLR en WASM,11,Cw,0
+Línea base x86-64-v2,runtime,11,RC,Se exige x86-64-v2 y LSE en Windows Arm64,11,X2,1
+FP16 en hardware,runtime,11,RC,Half usa instrucciones nativas donde existen,11,F6,0
+Reporte de fallos en proceso,runtime,11,RC,Crash report en Linux y macOS sin monitor externo,11,Cr,0
+Más de 1024 CPU,runtime,11,RC,El runtime inicia en servidores con más de 1024 procesadores lógicos,11,Cp,0
+Decimal32/64/128,bcl,11,RC,Decimales de coma flotante IEEE 754,13,Dc,1
+Zstandard,bcl,11,RC,Compresión Zstandard en System.IO.Compression,13,Zs,1
+Process.RunAndCaptureText,bcl,11,RC,Ejecutar un proceso y capturar su salida en una llamada,13,Rt,1
+FullJoin en LINQ,bcl,11,RC,"FullJoin y sobrecargas de Join que devuelven tuplas",13,Fj,0
+Uniones en System.Text.Json,bcl,11,RC,"Serialización de uniones, JSONL y polimorfismo ampliado",13,Ju,1
+Validación asíncrona,bcl,11,RC,AsyncValidationAttribute e IAsyncValidatableObject,13,Vz,0
+Resolución DNS tipada,bcl,11,RC,DnsResolver para registros DNS,13,Dn,0
+Streams en memoria,bcl,11,RC,"ReadOnlyMemoryStream, StringStream y afines",13,St,0
+X25519,seguridad,11,RC,Intercambio de claves X25519 y AES Key Wrap,20,X5,1
+ML-KEM compuesto y HPKE,seguridad,11,Experimental,APIs experimentales SYSLIB5006,20,Hp,0
+Device Bound Sessions,seguridad,11,Experimental,Sesiones vinculadas al dispositivo,20,Db,1
+Antigüedad mínima de paquete,seguridad,11,RC,--min-publish-age-hours en orígenes NuGet,20,Mn,0
+OpenAPI 3.2,web,11,RC,Versión predeterminada y soporte de SSE con itemSchema,14,O2,1
+Tracing nativo en ASP.NET Core,cloud,11,RC,Atributos semánticos OpenTelemetry sin biblioteca de instrumentación,17,Ot,1
+Compresión Zstandard HTTP,web,11,RC,Respuesta y solicitud con zstd,14,Zh,0
+Plantilla mcpserver en el SDK,ia,11,RC,dotnet new mcpserver sin instalar plantillas,18,Mv,1
+Blazor AI components,ia,11,Experimental,Componentes para interfaces agénticas,18,Ba,1
+CLI con NativeAOT,sdk,11,RC,Comandos comunes de dotnet sin arranque administrado,19,Cn,1
+MSBuild server por defecto,sdk,11,RC,Servidor de MSBuild habilitado por defecto,19,Mb,0
+#:include en file-based apps,sdk,11,RC,Aplicaciones de varios archivos sin proyecto,19,Ic,1
+dotnet test móvil,sdk,11,RC,"Pruebas en Android, iOS, macOS y Mac Catalyst",19,Dm,0
+dotnetup,sdk,11,Preview,Gestor de SDK y runtimes en el directorio del usuario,19,Du,1
+Imágenes reproducibles,despliegue,11,RC,SOURCE_DATE_EPOCH en publicación de contenedores,12,Ir,0
+Ubuntu 26.04 resolute,despliegue,11,RC,Imagen predeterminada de .NET 11,12,R6,1
+Azure Linux 4.0,despliegue,11,RC,Etiquetas de imagen para Azure Linux 4.0,12,Az,0
+Consultas híbridas EF Core,datos,11,RC,"VECTOR_SEARCH, índices vectoriales y búsqueda híbrida",15,Hy,1
+Complex types en TPT/TPC,datos,11,RC,Tipos complejos y JSON con herencia ampliada,15,Ty,0
+Cosmos DB transaccional,datos,11,RC,Batch transaccional y ejecución masiva,15,Cz,0
+Material 3 en Android,clientes,11,RC,Controles MAUI con Material 3,16,M3,0
+XAML Incremental Hot Reload,clientes,11,RC,Motor incremental de Hot Reload para XAML,16,Xh,1
+WinForms visual styles,clientes,11,RC,Estilos modernos y escenarios de quiosco,16,Wv,0
